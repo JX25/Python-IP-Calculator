@@ -1,0 +1,14 @@
+{
+  "ip": "10.129.10.168/20",
+  "networkIPdecimal": "10.129.0.0",
+  "networkIPbinary": "00001010.10000001.00000000.00000000",
+  "addressClass": "prywatny klasa A",
+  "subnetmaskDecimal": "255.255.240.0",
+  "subnetmaskBinary": "11111111.11111111.11110000.00000000",
+  "broadcastDecimal": "10.129.15.255",
+  "broadcastBinary": "00001010.10000001.00001111.11111111",
+  "firstHostDecimal": "10.129.0.1",
+  "firstHostBinary": "00001010.10000001.00000000.00000001",
+  "maxHostsDecimal": "4094",
+  "maxHostsBinary": "111111111110"
+}
